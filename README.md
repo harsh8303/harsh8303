@@ -2,79 +2,83 @@
 
 # Hi 👋, I'm Harshit Sahu
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+at+BIT+Mesra;Aspiring+AI+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+AI+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+at+BIT+Mesra;Aspiring+AI+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+AI+Applications;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-##  About Me
+# 💫 About Me
 
- B.Tech Computer Science & Engineering student at **Birla Institute of Technology (BIT), Mesra** (Expected Graduation: **2028**)
+🎓 B.Tech Computer Science & Engineering student at **Birla Institute of Technology (BIT), Mesra** *(Expected Graduation: 2028)*
 
- Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing**
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing**
 
- Currently learning **Deep Learning**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**
+🌱 Currently learning **Deep Learning, Natural Language Processing (NLP), and Large Language Models (LLMs)**
 
- Currently working on **Universal Programming Question Analyzer**
+🔭 Currently working on **Universal Programming Question Analyzer**
 
- Solved **184+ Data Structures & Algorithms** problems on **LeetCode**
+💻 Solved **184+ Data Structures & Algorithms** problems on **LeetCode**
 
- Always eager to learn new technologies and build impactful AI applications.
-
----
-
-##  Current Focus
-
--  Deep Learning
--  Natural Language Processing (NLP)
--  Large Language Models (LLMs)
--  Building AI-powered applications
+🚀 Always eager to learn new technologies and build impactful AI applications.
 
 ---
 
-##  Tech Stack
+# 🚀 Current Focus
+
+- 🤖 Deep Learning
+- 🧠 Natural Language Processing (NLP)
+- 📖 Large Language Models (LLMs)
+- 💻 Building AI-powered Applications
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,sql,tensorflow,git,github,vscode" />
 </p>
 
-**Libraries & Frameworks**
+### Libraries & Frameworks
 
 `Scikit-learn` • `TensorFlow` • `Keras` • `Pandas` • `NumPy` • `Matplotlib`
 
 ---
 
-## Featured Projects
+# 📂 Featured Projects
 
-### 🔹 Universal Programming Question Analyzer *(In Progress)*
+## 🔹 Universal Programming Question Analyzer *(In Progress)*
 
-Developing an NLP-based project for analyzing programming questions.
+Developing an NLP-based system for analyzing programming questions.
 
 - Collected programming questions from multiple sources.
 - Cleaned, preprocessed, and organized the dataset.
 - Structured the dataset into **19 meaningful features** for future deep learning model development.
-- Currently preparing the dataset for NLP model training.
+- Currently preparing the dataset for future NLP and Deep Learning model development.
 
-**Tech Stack:** `Python` • `NLP` • `Pandas` • `NumPy`
+**Tech Stack**
+
+`Python` • `Pandas` • `NumPy` • `NLP` • `Data Preprocessing`
 
 ---
 
-### 🔹 Student Stress Prediction
+## 🔹 Student Stress Prediction
 
-Machine Learning classification project for predicting student stress levels.
+Machine Learning classification project for predicting student stress levels using academic and lifestyle factors.
 
-- Built an **AdaBoost** classification model.
-- Performed data preprocessing and feature engineering.
+- Built an **AdaBoost Classifier**.
+- Performed data preprocessing, feature engineering, and model evaluation.
 - Achieved **82.0% Test Accuracy**.
 
-**Tech Stack:** `Python` • `Scikit-learn` • `AdaBoost` • `Pandas`
+**Tech Stack**
 
-🔗 Repository: **student-stress-prediction**
+`Python` • `Scikit-learn` • `AdaBoost` • `Pandas`
+
+🔗 Repository: [student-stress-prediction](https://github.com/harsh8303/student-stress-prediction)
 
 ---
 
-### 🔹 Insurance Claim Amount Prediction
+## 🔹 Insurance Claim Amount Prediction
 
 Machine Learning regression project for predicting insurance claim amounts.
 
@@ -82,30 +86,32 @@ Machine Learning regression project for predicting insurance claim amounts.
 - Selected **Lasso Regression** as the best-performing model.
 - Achieved **Test R² Score: 0.9749**.
 
-**Tech Stack:** `Python` • `Scikit-learn` • `Lasso Regression`
+**Tech Stack**
 
-🔗 Repository: **insurance-claim-amount-prediction**
+`Python` • `Scikit-learn` • `Lasso Regression`
 
----
-
-##  Certifications
-
--  Deep Learning Specialization (5 Courses) — DeepLearning.AI (Coursera)
--  Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp — Udemy
--  NPTEL Elite Certification (99%)
+🔗 Repository: [insurance-claim-amount-prediction](https://github.com/harsh8303/insurance-claim-amount-prediction)
 
 ---
 
-##  GitHub Stats
+# 🏆 Certifications
+
+- 🎓 Deep Learning Specialization (5 Courses) — DeepLearning.AI (Coursera)
+- 📘 Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp — Udemy
+- 🥇 NPTEL Elite Certification (99%)
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh8303&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh8303&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh8303&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh8303&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
 
-##  GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=harsh8303&theme=github-dark&hide_border=true"/>
@@ -113,22 +119,14 @@ Machine Learning regression project for predicting insurance claim amounts.
 
 ---
 
-##  GitHub Trophies
+# 💻 Coding Profiles
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harsh8303&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-##  Coding Profiles
-
--  **LeetCode:** https://leetcode.com/u/harshit_8303/
--  **184+ Problems Solved**
+- 🧩 **LeetCode:** https://leetcode.com/u/harshit_8303/
+- 📚 **184+ Problems Solved**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -152,7 +150,7 @@ Machine Learning regression project for predicting insurance claim amounts.
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=harsh8303&label=Profile%20Views&color=0e75b6&style=flat"/>
@@ -162,8 +160,8 @@ Machine Learning regression project for predicting insurance claim amounts.
 
 <div align="center">
 
-###  Open to Software Engineering, AI, Machine Learning, Deep Learning, NLP, and Data Science Internship Opportunities.
+### ⭐ Open to Software Engineering, AI, Machine Learning, Deep Learning, NLP, and Data Science Internship Opportunities.
 
-**"Keep Learning • Keep Building • Keep Growing "**
+**Keep Learning • Keep Building • Keep Growing 🚀**
 
 </div>
