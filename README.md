@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Harshit Sahu
+# Hi , I'm Harshit Sahu
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+at+BIT+Mesra;Aspiring+AI+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Building+AI+Applications;Always+Learning+Something+New" />
 
@@ -8,32 +8,32 @@
 
 ---
 
-# 💫 About Me
+#  About Me
 
-🎓 B.Tech Computer Science & Engineering student at **Birla Institute of Technology (BIT), Mesra** *(Expected Graduation: 2028)*
+ B.Tech Computer Science & Engineering student at **Birla Institute of Technology (BIT), Mesra** *(Expected Graduation: 2028)*
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing**
+ Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Natural Language Processing**
 
-🌱 Currently learning **Deep Learning, Natural Language Processing (NLP), and Large Language Models (LLMs)**
+ Currently learning **Deep Learning, Natural Language Processing (NLP), and Large Language Models (LLMs)**
 
-🔭 Currently working on **Universal Programming Question Analyzer**
+ Currently working on **Universal Programming Question Analyzer**
 
-💻 Solved **184+ Data Structures & Algorithms** problems on **LeetCode**
+ Solved **184+ Data Structures & Algorithms** problems on **LeetCode**
 
-🚀 Always eager to learn new technologies and build impactful AI applications.
-
----
-
-# 🚀 Current Focus
-
-- 🤖 Deep Learning
-- 🧠 Natural Language Processing (NLP)
-- 📖 Large Language Models (LLMs)
-- 💻 Building AI-powered Applications
+ Always eager to learn new technologies and build impactful AI applications.
 
 ---
 
-# 🛠 Tech Stack
+#  Current Focus
+
+-  Deep Learning
+-  Natural Language Processing (NLP)
+-  Large Language Models (LLMs)
+-  Building AI-powered Applications
+
+---
+
+#  Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,sql,tensorflow,git,github,vscode" />
@@ -45,9 +45,9 @@
 
 ---
 
-# 📂 Featured Projects
+#  Featured Projects
 
-## 🔹 Universal Programming Question Analyzer *(In Progress)*
+##  Universal Programming Question Analyzer *(In Progress)*
 
 Developing an NLP-based system for analyzing programming questions.
 
@@ -62,7 +62,7 @@ Developing an NLP-based system for analyzing programming questions.
 
 ---
 
-## 🔹 Student Stress Prediction
+##  Student Stress Prediction
 
 Machine Learning classification project for predicting student stress levels using academic and lifestyle factors.
 
@@ -78,7 +78,7 @@ Machine Learning classification project for predicting student stress levels usi
 
 ---
 
-## 🔹 Insurance Claim Amount Prediction
+##  Insurance Claim Amount Prediction
 
 Machine Learning regression project for predicting insurance claim amounts.
 
@@ -94,15 +94,15 @@ Machine Learning regression project for predicting insurance claim amounts.
 
 ---
 
-# 🏆 Certifications
+#  Certifications
 
-- 🎓 Deep Learning Specialization (5 Courses) — DeepLearning.AI (Coursera)
-- 📘 Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp — Udemy
-- 🥇 NPTEL Elite Certification (99%)
+-  Deep Learning Specialization (5 Courses) — DeepLearning.AI (Coursera)
+-  Complete Data Science, Machine Learning, Deep Learning & NLP Bootcamp — Udemy
+-  NPTEL Elite Certification (99%)
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh8303&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
@@ -111,7 +111,7 @@ Machine Learning regression project for predicting insurance claim amounts.
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=harsh8303&theme=github-dark&hide_border=true"/>
@@ -119,14 +119,14 @@ Machine Learning regression project for predicting insurance claim amounts.
 
 ---
 
-# 💻 Coding Profiles
+#  Coding Profiles
 
-- 🧩 **LeetCode:** https://leetcode.com/u/harshit_8303/
-- 📚 **184+ Problems Solved**
+-  **LeetCode:** https://leetcode.com/u/harshit_8303/
+-  **184+ Problems Solved**
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -160,8 +160,8 @@ Machine Learning regression project for predicting insurance claim amounts.
 
 <div align="center">
 
-### ⭐ Open to Software Engineering, AI, Machine Learning, Deep Learning, NLP, and Data Science Internship Opportunities.
+###  Open to Software Engineering, AI, Machine Learning, Deep Learning, NLP, and Data Science Internship Opportunities.
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
+**Keep Learning • Keep Building • Keep Growing **
 
 </div>
